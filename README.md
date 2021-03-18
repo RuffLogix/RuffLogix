@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rufflogix&show_icons=true&locale=en&layout=compact" alt="rufflogix" /></p>
+
 <!--
 **RuffLogix/RuffLogix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
