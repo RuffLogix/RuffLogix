@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋 I'm Gun.
+![RuffLogix's GitHub stats](https://github-readme-stats.vercel.app/api?username=rufflogix&show_icons=true&theme=tokyonight)
+## About Me
+🐰 Teejuta Sriwaranon (17 yrs old). <br>
+💻 I'm currently learning machine learning and web development. <br>
+
 
 <!--
 **RuffLogix/RuffLogix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
