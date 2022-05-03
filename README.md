@@ -3,6 +3,7 @@
 ## About Me
 🐰 Teejuta Sriwaranon (17 yrs old). <br>
 💻 I'm currently learning machine learning and web development. <br>
+🏆 Compeitive Programming : TOI 16 🥉, 🥈 TOI 17. <br> 
 
 
 <!--
