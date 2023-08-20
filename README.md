@@ -7,6 +7,6 @@
 
 - 🏆 Achievements:
    - TOI 16 🥉, TOI 17 🥈 in competitive programming.
-   - Super AI Engineer SS 3.
+   - Super AI Engineer SS 3 🥈.
 
 - 🏠 Co-Founder of CodeBlitz, a coding school that teaches competitive programming and other tech skills to students of all levels.
