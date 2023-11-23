@@ -8,6 +8,13 @@ I'm Gun, a passionate explorer in the realms of artificial intelligence, blockch
 
 [![](https://visitcount.itsvg.in/api?id=rufflogix&label=RuffLogix&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
+## 🔥 Achievements
+
+- 🥉 Bronze Medal (16th Thailand Olympiad in Informatics - 2020)
+- 🥈 Silver Medal (17th Thailand Olympiad in Informatics - 2021)
+- 🥉 Bronze Medal (5th Creative AI Camp - 2022)
+- 🥈 Silver Medal (Super AI Engineer Season 3 - 2023)
+
 ## 🔥 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
