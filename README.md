@@ -10,5 +10,3 @@
    - 🥈 Silver Medal (17th Thailand Olympiad in Informatics (2021))
    - 🥉 Bronze Medal (5th Creative AI Camp (2022))
    - 🥈 Silver Medal (Super AI Engineer Season 3 (2023))
-
-- 🏠 Co-Founder of CodeBlitz, a coding school that teaches competitive programming and other tech skills to students of all levels.
