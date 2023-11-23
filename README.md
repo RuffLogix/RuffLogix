@@ -15,7 +15,7 @@ I'm Gun, a passionate explorer in the realms of artificial intelligence, blockch
 - 🥉 Bronze Medal (5th Creative AI Camp - 2022)
 - 🥈 Silver Medal (Super AI Engineer Season 3 - 2023)
 
-## 🔥 Tech Stack
+## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust)
