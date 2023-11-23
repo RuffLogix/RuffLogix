@@ -10,3 +10,5 @@
    - 🥈 Silver Medal (17th Thailand Olympiad in Informatics (2021))
    - 🥉 Bronze Medal (5th Creative AI Camp (2022))
    - 🥈 Silver Medal (Super AI Engineer Season 3 (2023))
+
+[![](https://visitcount.itsvg.in/api?id=rufflogix&label=RuffLogix&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
