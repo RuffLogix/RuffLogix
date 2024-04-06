@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Gun (Teejuta Sriwaranon)
+# 👋 Hi, I'm Ruff (Teejuta Sriwaranon)
 
 📞 Reach me on Discord at RuffLogix#6914. 
 
 ## 💻 About Me
 
-I'm Gun, a passionate explorer in the realms of artificial intelligence, blockchain, and web development. My journey in theoretical computer science fuels my love for solving intricate problems and delving into the beauty of algorithms.
+I'm Ruff, a passionate explorer in the realms of artificial intelligence, blockchain, and web development. My journey in theoretical computer science fuels my love for solving intricate problems and delving into the beauty of algorithms.
 
 ## 🔥 Achievements
 
