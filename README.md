@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Ruff (Teejuta Sriwaranon)
+# 👋 Hi there, I'm Ruff (Teejuta Sriwaranon)!
 
-📞 Reach me on Discord at RuffLogix#6914. 
+📞 Connect with me on Discord at RuffLogix#6914.
 
 ## 💻 About Me
 
-I'm Ruff, a passionate explorer in the realms of artificial intelligence, blockchain, and web development. My journey in theoretical computer science fuels my love for solving intricate problems and delving into the beauty of algorithms.
+🐰 I'm a curious little rabbit deeply passionate about exploring the fascinating worlds of Artificial Intelligence, Blockchain, System Programming, and Web Development. My journey into the realm of technology began with a keen interest in understanding how these fields intertwine to shape the future.
 
 ## 🔥 Achievements
+
+Throughout my journey, I've had the privilege of achieving notable milestones:
 
 - 🥉 Bronze Medal (16th Thailand Olympiad in Informatics - 2020)
 - 🥈 Silver Medal (17th Thailand Olympiad in Informatics - 2021)
@@ -14,6 +16,8 @@ I'm Ruff, a passionate explorer in the realms of artificial intelligence, blockc
 - 🥈 Silver Medal (Super AI Engineer Season 3 - 2023)
 
 ## 🚀 Tech Stack
+
+In my arsenal, I wield a variety of tools and technologies, including
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
