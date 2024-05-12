@@ -8,7 +8,7 @@
 
 ## 🔥 Achievements
 
-Throughout my journey, I've had the privilege of achieving notable milestones:
+During my journey, I've had the honor of reaching significant milestones:
 
 - 🥉 Bronze Medal (16th Thailand Olympiad in Informatics - 2020)
 - 🥈 Silver Medal (17th Thailand Olympiad in Informatics - 2021)
