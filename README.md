@@ -10,13 +10,13 @@
 
 Along the way, I've had the privilege of hitting some significant milestones:
 
-🥉 Bronze Medal (16th Thailand Olympiad in Informatics - 2020)
+- 🥉 Bronze Medal (16th Thailand Olympiad in Informatics - 2020)
 
-🥈 Silver Medal (17th Thailand Olympiad in Informatics - 2021)
+- 🥈 Silver Medal (17th Thailand Olympiad in Informatics - 2021)
 
-🥉 Bronze Medal (5th Creative AI Camp - 2022)
+- 🥉 Bronze Medal (5th Creative AI Camp - 2022)
 
-🥈 Silver Medal (Super AI Engineer Season 3 - 2023)
+- 🥈 Silver Medal (Super AI Engineer Season 3 - 2023)
 
 ## 🚀 Tech Stack
 
