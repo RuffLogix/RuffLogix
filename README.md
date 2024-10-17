@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ruff (Teejuta Sriwaranon)!
 
-📞 Connect with me on Discord at RuffLogix#6914.
+📞 Connect with me on Discord at RuffLogix#6914. 
 
 ## 🐰 About Me
 
