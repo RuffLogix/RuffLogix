@@ -11,11 +11,8 @@
 Along the way, I've had the privilege of hitting some significant milestones:
 
 - 🥉 Bronze Medal (16th Thailand Olympiad in Informatics - 2020)
-
 - 🥈 Silver Medal (17th Thailand Olympiad in Informatics - 2021)
-
 - 🥉 Bronze Medal (5th Creative AI Camp - 2022)
-
 - 🥈 Silver Medal (Super AI Engineer Season 3 - 2023)
 
 ## 🚀 Tech Stack
@@ -33,3 +30,4 @@ In my toolkit, you'll find an array of tools and technologies, including:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-563C5C?style=for-the-badge&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
