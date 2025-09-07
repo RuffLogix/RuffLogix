@@ -1,33 +1,56 @@
-# 👋 Hi there, I'm Ruff (Teejuta Sriwaranon)!
+# Hi there, I'm rufflogix 👋
 
-📞 Connect with me on Discord at RuffLogix#6914. 
+Full Stack Developer | AI Engineer | Systems Programmer
 
-## 🐰 About Me
+## 🔥 What I Do
 
-🔍 I'm a curious explorer, delving into the realms of Artificial Intelligence, Blockchain, System Programming, and Web Development. My journey into the tech world began with a fascination for how these fields shape our future.
+- 🤖 **AI Engineering** - Building machine learning models, deep learning systems, and intelligent applications using PyTorch and advanced ML techniques
+- 🌐 **Web Development** - Creating scalable web applications with modern frameworks like Next.js, NestJS, and Astro, focusing on performance and user experience
+- ⚡ **Full Stack Development** - Developing complete systems from database design (MongoDB, PostgreSQL) to frontend interfaces, including API development and microservices architecture
+- 🦀 **Systems Programming** - Building high-performance applications with Rust and Go, focusing on concurrency, memory safety, and optimal resource utilization
+- ⛓️ **Blockchain Development** - Smart contract development with Solidity and decentralized application architecture
 
-## 🏆 Achievements
+## 🛠️ Tech Stack
 
-Along the way, I've had the privilege of hitting some significant milestones:
+**Languages:** Python • C++ • Rust • Go • TypeScript • JavaScript • Java • Solidity
 
-- 🥉 Bronze Medal (16th Thailand Olympiad in Informatics - 2020)
-- 🥈 Silver Medal (17th Thailand Olympiad in Informatics - 2021)
-- 🥉 Bronze Medal (5th Creative AI Camp - 2022)
-- 🥈 Silver Medal (Super AI Engineer Season 3 - 2023)
+**Frameworks:** PyTorch • Next.js • NestJS • Astro • Bevy • Gin • Ntex
 
-## 🚀 Tech Stack
+**Databases:** MongoDB • PostgreSQL • Redis
 
-In my toolkit, you'll find an array of tools and technologies, including:
+**Tools:** Docker • OpenGL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-E57300?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4CAF50?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-563C5C?style=for-the-badge&logo=solidity&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rufflogix&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rufflogix&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+## 🚀 Featured Projects
+
+### AI/ML Platform
+Machine learning pipeline with PyTorch for model training, inference optimization, and automated data processing
+
+### Blockchain DApp
+Decentralized application with Solidity smart contracts, Web3 integration, and modern frontend interface
+
+### High-Performance Backend
+Scalable microservices architecture built with Go and Rust, featuring concurrent processing and efficient resource management
+
+## 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rufflogix)
+
+---
+
+<div align="center">
+
+*Building the future through code* 💻
+
+![Profile Views](https://komarev.com/ghpvc/?username=rufflogix&color=brightgreen&style=flat-square)
+
+</div>
