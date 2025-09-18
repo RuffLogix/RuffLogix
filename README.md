@@ -20,16 +20,6 @@ Full Stack Developer | AI Engineer | Systems Programmer
 
 **Tools:** Docker • OpenGL
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rufflogix&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rufflogix&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
 ## 🚀 Featured Projects
 
 ### AI/ML Platform
