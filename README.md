@@ -44,3 +44,12 @@ Scalable microservices architecture built with Go and Rust, featuring concurrent
 ![Profile Views](https://komarev.com/ghpvc/?username=rufflogix&color=brightgreen&style=flat-square)
 
 </div>
+
+
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rufflogix/rufflogix/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rufflogix/rufflogix/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rufflogix/rufflogix/output/pacman-contribution-graph.svg">
+</picture>
